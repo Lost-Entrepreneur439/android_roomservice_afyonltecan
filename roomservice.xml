@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Lost-Entrepreneur439/android_device_samsung_afyonltecan" path="device/samsung/afyonltecan" remote="github" branch="Q" />
-  <project name="greggit1986/android_device_samsung_afyonlte-common" path="device/samsung/afyonlte-common" remote="github" branch="lineage-17.1" />
-  <project name="greggit1986/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" branch="lineage-17.1" />
-  <project name="greggit1986/android_kernel_samsung_msm8226" path="kernel/samsung/msm8226" remote="github" branch="lineage-17.1_fixed" />
-  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" branch="lineage-17.1" />
-  <project name="greggit1986/android_vendor_samsung_afyonltecan" path="vendor/samsung/afyonltecan" remote="github" branch="lineage-17.1" />
-  <project name="greggit1986/android_vendor_samsung_afyonlte-common" path="vendor/samsung/afyonlte-common" remote="github" branch="lineage-17.1" />
-  <project name="greggit1986/android_vendor_samsung_msm8226-common" path="vendor/samsung/msm8226-common" remote="github" branch="lineage-17.1" />
-  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" branch="lineage-17.1" />
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" branch="lineage-17.1" />
+  <project name="Lost-Entrepreneur439/android_device_samsung_afyonltecan" path="device/samsung/afyonltecan" remote="github" revision="Q" />
+  <project name="greggit1986/android_device_samsung_afyonlte-common" path="device/samsung/afyonlte-common" remote="github" revision="lineage-17.1" />
+  <project name="greggit1986/android_device_samsung_msm8226-common" path="device/samsung/msm8226-common" remote="github" revision="lineage-17.1" />
+  <project name="greggit1986/android_kernel_samsung_msm8226" path="kernel/samsung/msm8226" remote="github" revision="lineage-17.1_fixed" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="lineage-17.1" />
+  <project name="greggit1986/android_vendor_samsung_afyonltecan" path="vendor/samsung/afyonltecan" remote="github" revision="lineage-17.1" />
+  <project name="greggit1986/android_vendor_samsung_afyonlte-common" path="vendor/samsung/afyonlte-common" remote="github" revision="lineage-17.1" />
+  <project name="greggit1986/android_vendor_samsung_msm8226-common" path="vendor/samsung/msm8226-common" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" revision="lineage-17.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
 </manifest>
